@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Pedro!! 🖖🏾
 
-- 🖥️ Atualmente estou aprendendo sobre programação e desenvolvimento web pelo Instituto Proa
+- 🖥️ Dev front-end
 - 💪🏾 Tenho como meta melhorar meus conhecimentos e me tornar um bom desenvolvedor
-- 💼 Procurando por oportunidade de trabalho
 
  <div>
   <a href="https://github.com/Lop3sPedro">
